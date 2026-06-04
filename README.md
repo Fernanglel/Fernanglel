@@ -1,4 +1,4 @@
-### Hey Sourav here 👋
+### Holaaaaaa
 
 ---
 
@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/Fernanglel/Fernanglel/master/Hamster.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+Hola soy fernando ingeniero en sistemas me gusta la programacion, aprender, resolver y estas son algunas de las herramientas y lenguajes que se,
  
  🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
  
@@ -48,28 +48,8 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
 
-### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/souravdey777)
-
----
 
 
 
-<br/>
-
-
----
-
----
-
-Let's connect 👨‍💻 and forge the future together.😁✌
-
-**Check the Repositories and don't forget to give a star.** 👇
 
 
